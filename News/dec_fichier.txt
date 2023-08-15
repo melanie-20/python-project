@@ -1,0 +1,11 @@
+Dans cet article, nous avons appris à
+ utiliser le type de chiffrement de fichier 
+ symétrique pour chiffrer et déchiffrer le 
+ fichier et les données à l’intérieur du 
+ fichier à l’aide d’un langage de programmation 
+ appelé Python et d’une bibliothèque appelée cryptographie.
+ Dans cette bibliothèque, le cryptage et le décryptage des fichiers est un processus simple.
+Nous n’avons pas besoin d’implémenter notre algorithme logique, vous pouvez simplement générer une clé,
+crypter le fichier puis décrypter avec la clé, 
+c’est sûr et facile. 
+Alors, comment sécuriser des fichiers avec Python ? C’est facile, non ?
